@@ -1,4 +1,4 @@
-# Relógio com Tkinter 🕒
+# Relógio com Tkinter
 
 Este projeto é um simples relógio digital implementado com a biblioteca Tkinter em Python. Ele exibe a hora atual em uma janela gráfica e atualiza automaticamente a cada segundo.
 
